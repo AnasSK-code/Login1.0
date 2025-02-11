@@ -19,3 +19,4 @@ Formulaire de connexion simple utilisant HTML et CSS. Ce projet contient un form
 ## Structure du projet
 
 /login-form |-- index.html # Fichier HTML principal |-- style.css # Fichier CSS pour la mise en page et le style |-- image/ # Dossier contenant les images (ex. arrière-plan) | |-- 1.jpg # Image d'arrière-plan
+![image](https://github.com/user-attachments/assets/6ef54b04-8577-4c3a-b56e-f175ecb460ec)
